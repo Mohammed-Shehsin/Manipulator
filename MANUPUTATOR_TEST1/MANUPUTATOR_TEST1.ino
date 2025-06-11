@@ -29,5 +29,6 @@ void loop() {
   baseServo.write(map(baseVal, 0, 1023, 0, 180));
   armServo.write(map(armVal, 0, 1023, 0, 180));
   forearmServo.write(map(forearmVal, 0, 1023, 0, 180));
-  gripperServo.write(map(gripperVal, 0, 1023, 0, 90));  // Limit gripper to 0-90°
+  gripperServo.write(map(gripperVal, 0, 1023, 0, 90));  // Limit gripper to 0-90 degrees
+  delay(15);  // allow servos to reach the commanded position
 }
