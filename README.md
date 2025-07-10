@@ -3,7 +3,13 @@
 This project showcases a simple yet powerful **4-DOF robotic arm**, built using MG996R servo motors and controlled via four potentiometers. The system is designed to perform basic pick-and-place operations, ideal for demonstrating motion control, embedded systems, and robotics fundamentals.
 
 ---
+## 📸 Project Showcase
 
+| Prototype Standing View | Manipulator in Action |
+|-------------------------|------------------------|
+| ![Standing View](img/4bb329bf-adaa-4933-9855-2093d584a77a.png) | ![Action View](img/b24f67a8-a627-448a-86af-eabba30cf530.png) |
+
+---
 ## 🛠️ Features
 
 - ✅ **4 Degrees of Freedom**:
