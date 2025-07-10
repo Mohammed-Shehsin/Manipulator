@@ -29,9 +29,9 @@ This project showcases a simple yet powerful **4-DOF robotic arm**, built using 
 
 ## 🧰 Hardware Used
 
-- 4x **MG996R Servo Motors**
+- 5x **MG996R Servo Motors**
 - 1x **Arduino UNO/Nano**
-- 4x **10kΩ Potentiometers**
+- 5x **10kΩ Potentiometers**
 - 1x **4700µF Electrolytic Capacitor**
 - Bench **Power Supply (5.8V, 4.2A)**
 - Diodes (e.g., 1N4007 for flyback protection)
